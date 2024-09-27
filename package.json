@@ -1,0 +1,11 @@
+{
+  "name": "useobserve",
+  "version": "1.0.0",
+  "description": "A react hook, which lets you observe an object. Will trigger re-render on a property change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
